@@ -53,3 +53,8 @@
   - 출판사 추가 : 새출판사 추가 창
   - 출판사 삭제 : 선택한 출판사 삭제
 -각각 뒤로가기 버튼을 추가해서 뒤로가기 기능 제공
+
+## 처음 동작 UI
+![image](https://github.com/user-attachments/assets/42455bab-39ab-4756-9c79-4c4f178fa28e)
+
+
