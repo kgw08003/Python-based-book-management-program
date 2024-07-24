@@ -57,4 +57,5 @@
 ## 처음 동작 UI
 ![image](https://github.com/user-attachments/assets/42455bab-39ab-4756-9c79-4c4f178fa28e)
 
+파이썬 부트캠프 진행하면서 처음 만든 프로젝트여서 많은 시간을 들여서 만들었지만 많이 미숙함...
 
